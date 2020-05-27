@@ -104,6 +104,18 @@ Some of the parts have been edited or removed.
 
 Adjusted CSS section.
 * after all commits are done I merged branch into master.
+## 6. 6-media
+
+### Repo
+
+The user story was created on branch named  6-media.
+This adjustment was added to CSS section only. The CSS added will help to adjust the page to mobile devices.
+
+
+### CSS
+
+Adjusted CSS section.
+* after all commits are done I merged branch into master.
 
 
 ## Finishing Touches
