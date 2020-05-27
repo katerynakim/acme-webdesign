@@ -35,12 +35,25 @@ Added following sections: title, header, footer, navigation.
 ### CSS
 
 Styled header section, footer,navifation.
+* after all commits are done I merged branch into master.
 
-## 2. ...
+## 2. 2-intro
 
-...
+### Repo
 
-...
+The user story was created on branch named intro-2.
+After all commites were done branch was merged to master branch.
+
+### HTML
+
+Added following sections: showcase and newsletter.
+This user story will show a short intro regrading the company and how to reach out.
+
+### CSS
+
+Added all nessesaty CSS: changed the positioning, added nice background, added form element.
+* after all commits are done I merged branch into master.
+
 
 ## Finishing Touches
 
