@@ -69,6 +69,24 @@ This user story will show in boxing sections which services are provided by the 
 
 Added all nessesaty CSS: changed the positioning of boxing elements.
 * after all commits are done I merged branch into master.
+## 4. 4-about
+
+### Repo
+
+The user story was created on branch named 4-about.
+This page is created on one branch, as it requires only small modifications.
+The main page development has been done in previous user stories.
+After all commits were done branch was merged to master branch.
+
+### HTML
+
+Created new file about.html, this file has been copied from index.html.
+Some of the parts have been added or removed.
+
+### CSS
+
+Adjusted CSS section.
+* after all commits are done I merged branch into master.
 
 
 ## Finishing Touches
