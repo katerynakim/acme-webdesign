@@ -53,6 +53,22 @@ This user story will show a short intro regrading the company and how to reach o
 
 Added all nessesaty CSS: changed the positioning, added nice background, added form element.
 * after all commits are done I merged branch into master.
+## 3. 3-main
+
+### Repo
+
+The user story was created on branch named 3-main.
+After all commites were done branch was merged to master branch.
+
+### HTML
+
+Added following sections: boxes.
+This user story will show in boxing sections which services are provided by the company.
+
+### CSS
+
+Added all nessesaty CSS: changed the positioning of boxing elements.
+* after all commits are done I merged branch into master.
 
 
 ## Finishing Touches
