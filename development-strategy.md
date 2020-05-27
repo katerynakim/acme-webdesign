@@ -87,6 +87,23 @@ Some of the parts have been added or removed.
 
 Adjusted CSS section.
 * after all commits are done I merged branch into master.
+## 5. 5-services
+
+### Repo
+
+The user story was created on branch named  5-services.
+This page is created on one branch, as it requires only small modifications.
+The page contains price list with the services and their desciption, and newsletter section.
+
+### HTML
+
+Created new file services.html, this file has been copied from index.html.
+Some of the parts have been edited or removed.
+
+### CSS
+
+Adjusted CSS section.
+* after all commits are done I merged branch into master.
 
 
 ## Finishing Touches
