@@ -1,16 +1,15 @@
 # Development Strategy
 
-> `name-of-project`
+> `Acme Web Design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+# Description:Project will help to get better understanding how to work according to Agile values, how to build simple website and apply CSS selectors.
+
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](/images/wireframe.jpg)
 
 ## 0. Set-Up
 
