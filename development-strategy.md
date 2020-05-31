@@ -21,7 +21,9 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1.1-Title
+## 1. 1-Title
+
+* This User story named *title* is representing the logo of the company and navigation to the all main pages created in this website.
 
 ### Repo
 
@@ -38,22 +40,27 @@ Styled header section, footer,navifation.
 * after all commits are done I merged branch into master.
 
 ## 2. 2-intro
+* Following User story displays a cathy slogan and a copywrite text, which gives short, but undertandable overview about the company. Relative image was added as a background.
+Newsletter is feature will be used to communicate regularly with your subscriber.
 
 ### Repo
 
-The user story was created on branch named intro-2.
+The User story was created on branch named intro-2.
 After all commites were done branch was merged to master branch.
 
 ### HTML
 
 Added following sections: showcase and newsletter.
-This user story will show a short intro regrading the company and how to reach out.
+
 
 ### CSS
 
 Added all nessesaty CSS: changed the positioning, added nice background, added form element.
 * after all commits are done I merged branch into master.
 ## 3. 3-main
+
+This User story will display all the services which are provided by the company.
+All the services are illustarted by nice images which will help to get the User's attention.
 
 ### Repo
 
@@ -63,13 +70,15 @@ After all commites were done branch was merged to master branch.
 ### HTML
 
 Added following sections: boxes.
-This user story will show in boxing sections which services are provided by the company.
+
 
 ### CSS
 
 Added all nessesaty CSS: changed the positioning of boxing elements.
 * after all commits are done I merged branch into master.
 ## 4. 4-about
+
+* About page will give the User short overview about the company and highlite the main it's goal.
 
 ### Repo
 
@@ -88,6 +97,8 @@ Some of the parts have been added or removed.
 Adjusted CSS section.
 * after all commits are done I merged branch into master.
 ## 5. 5-services
+ *Services* will help User to understand more about the services which are provided by company and their prices.
+ *Get a quote* box will help User to request a quote to any specific service.
 
 ### Repo
 
@@ -105,6 +116,8 @@ Some of the parts have been edited or removed.
 Adjusted CSS section.
 * after all commits are done I merged branch into master.
 ## 6. 6-media
+Media query will helpp to adjust a webpage to any king of devices.
+
 
 ### Repo
 
