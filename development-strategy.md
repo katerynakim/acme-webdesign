@@ -9,7 +9,7 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](/images/wireframe.jpg)
+![wireframe](\img\wireframe.jpg)
 
 ## 0. Set-Up
 
